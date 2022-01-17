@@ -5,7 +5,7 @@
 <hr>
     <h4>🇫🇷 I'm a French</h4>
     <h4>📚 Student at Epitech - European Institute of Technology</h4>
-    <h4>🧑‍🚒 Voluntary Firefighter</h4>
+    <h4>🧑‍🚒 Volunteer Firefighter</h4>
 
 
 
