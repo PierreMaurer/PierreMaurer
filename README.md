@@ -22,10 +22,7 @@
     <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
     </a>
     <a href="mailto:pierre.maurer@epitech.eu">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
-    </a>
-    <a href="mailto:pierre.maurer@epitech.eu">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+    <img alt="Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
     </a>
 </div>
 <br>
