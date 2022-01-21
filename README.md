@@ -3,7 +3,7 @@
 <div align="center">
     <h2>About myself 🧑‍💻</h2>
 <hr>
-    <h4>🇫🇷 I'm a French</h4>
+    <h4>🇫🇷 I'm French</h4>
     <h4>📚 Student at Epitech - European Institute of Technology</h4>
     <h4>🧑‍🚒 Volunteer Firefighter</h4>
 
